@@ -1,4 +1,4 @@
-# Shibnibi Explorer
+# Shibnobi Explorer
 
 <b>Live Version: [shibnobi.com](https://shibnobi.com)</b>
 
@@ -41,8 +41,8 @@ Basic settings:
     "patchBlocks":  100,
     "settings": {
         "symbol": "ETC",
-        "name": "Shibnibi",
-        "title": "Shibnibi Block Explorer",
+        "name": "Shibnobi",
+        "title": "Shibnobi Block Explorer",
         "author": "AntimonyIQ"
     }
 }
