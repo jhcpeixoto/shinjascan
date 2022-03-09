@@ -1,4 +1,4 @@
-# Ethereum Classic Explorer
+# Shibnibi Explorer
 
 <b>Live Version: [classicexplorer.org](https://classicexplorer.org)</b>
 
@@ -41,9 +41,9 @@ Basic settings:
     "patchBlocks":  100,
     "settings": {
         "symbol": "ETC",
-        "name": "Ethereum Classic",
-        "title": "Ethereum Classic Block Explorer",
-        "author": "Elaine"
+        "name": "Shibnibi",
+        "title": "Shibnibi Block Explorer",
+        "author": "AntimonyIQ"
     }
 }
 
