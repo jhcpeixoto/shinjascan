@@ -53,7 +53,7 @@ Basic settings:
 
 ```gethPort```    Your node API RPC port.
 
-```startBlock```  This is the start block of the blockchain, should always be 0 if you want to sync the whole ETC blockchain.
+```startBlock```  This is the start block of the blockchain, should always be 0 if you want to sync the whole SHINJA blockchain.
 
 ```endBlock```    This is usually the 'latest'/'newest' block in the blockchain, this value gets updated automatically, and will be used to patch missing blocks if the whole app goes down.
 
