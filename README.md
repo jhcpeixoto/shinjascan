@@ -1,12 +1,12 @@
 # Shibnibi Explorer
 
-<b>Live Version: [classicexplorer.org](https://classicexplorer.org)</b>
+<b>Live Version: [shibnobi.com](https://shibnobi.com)</b>
 
 ## Local installation
 
 Clone the repo
 
-`git clone https://github.com/chainkorea/etc-explorer`
+`git clone https://github.com/Shibnobi/shinjascan`
 
 Download [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
 
