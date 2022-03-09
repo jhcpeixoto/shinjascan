@@ -40,7 +40,7 @@ Basic settings:
     "patch":        true,
     "patchBlocks":  100,
     "settings": {
-        "symbol": "ETC",
+        "symbol": "SHINJA",
         "name": "Shibnobi",
         "title": "Shibnobi Block Explorer",
         "author": "AntimonyIQ"
