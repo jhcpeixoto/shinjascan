@@ -1,6 +1,6 @@
 {
-    "nodeAddr":     "localhost",
-    "gethPort":     8545,
+    "nodeAddr":     "44.192.94.5",
+    "gethPort":     3334,
     "startBlock":   0,
     "endBlock":     "latest",
     "quiet":        true,
@@ -9,10 +9,10 @@
     "patchBlocks":  100,
     "bulkSize":     100,
     "settings": {
-        "symbol": "ETC",
-        "name": "Ethereum Classic",
-        "title": "Ethereum Classic Blockchain Explorer",
-        "author": "Chainkorea",
+        "symbol": "SHINJA",
+        "name": "Shibnobi Explorer",
+        "title": "Shibnobi Blockchain Explorer",
+        "author": "AntimonyIQ",
         "miners": {
             "0xdf7d7e053933b5cc24372f878c90e62dadad5d42": "EtherMine",
             "0xc91716199ccde49dc4fafaeb68925127ac80443f": "F2Pool",
