@@ -1,9 +1,9 @@
 {
-  "name": "BlockchainExplorer",
+  "name": "shinjascan",
   "private": false,
   "version": "0.2.0",
-  "description": "A lightweight ethereum block explorer",
-  "repository": "https://github.com/eric-greencomb/etc-explorer",
+  "description": "Blockchain Explorer for shibnobi Blockchain",
+  "repository": "https://github.com/Shibnobi/shinjascan",
   "license": "MIT",
   "scripts": {
     "start": "concurrently \"node tools/sync.js \"",
