@@ -67,7 +67,7 @@ var syncChain = function(config, nextBlock){
     } else if( nextBlock < config.startBlock ) {
       writeBlockToDB(config, null, true);
       writeTransactionsToDB(config, null, true);
-      console.log('*** Sync Finsihed ***');
+      console.log('*** Sync Finished ***');
       config.syncAll = false;
       return;
     }
