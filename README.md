@@ -1,6 +1,6 @@
 # Shibnobi Explorer
 
-<b>Live Version: [shibnobi.com](https://shinjascan.com)</b>
+<b>Live Version: [shinjascan.com](https://shinjascan.com)</b>
 
 ## Local installation
 
