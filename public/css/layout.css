@@ -1225,7 +1225,8 @@ body,html {
 
 .page-prefooter .social-icons li:hover {
     opacity: 1;
-    filter: alpha(opacity=100);
+    filter: opacity(100) brightness(1.5);
+    background: #c2c2c2;
 }
 
 .page-prefooter address,.page-prefooter p {
